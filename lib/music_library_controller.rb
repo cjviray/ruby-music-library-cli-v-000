@@ -22,7 +22,8 @@ class MusicLibraryController
     
     case input 
       
-      when 
+      when 'list songs'
+        #
       
       
       
