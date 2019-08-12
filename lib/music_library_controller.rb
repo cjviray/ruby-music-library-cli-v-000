@@ -22,6 +22,10 @@ class MusicLibraryController
     
     case input 
       
+      when 
+      
+      
+      
    end 
   end 
   
