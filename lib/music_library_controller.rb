@@ -33,8 +33,8 @@ class MusicLibraryController
     when 'list genre'        
       list_songs_by_genre
     when 'play son'
-        play_song
-      end 
+      play_song
+    end 
    end 
   end 
   
