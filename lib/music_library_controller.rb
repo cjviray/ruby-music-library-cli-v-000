@@ -24,6 +24,7 @@ class MusicLibraryController
       
       when 'list songs'
         list songs
+      end 
       
       
       
