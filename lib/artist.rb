@@ -45,6 +45,5 @@ class Artist
   def genres
     songs.collect(&:genre).uniq
   end 
-
-
+  
 end 
