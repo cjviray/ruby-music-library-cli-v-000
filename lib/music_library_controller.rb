@@ -20,7 +20,8 @@ class MusicLibraryController
     
     input = gets.strip
     
-    case 
+    case input 
+      
    end 
   end 
   
